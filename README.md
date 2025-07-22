@@ -1,8 +1,8 @@
 ## Hi 👋
 
 #### 🔭 I’m currently working on Trip.com group
-#### 🐈 Have a cat named Zhuangzhuang
-
+#### 🐈 Having a cat named Zhuangzhuang
+#### 💬 Pytest contributor, Camel contributor ⚡ Working hard on more open source code now
 
 
 <!--
