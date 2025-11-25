@@ -1,7 +1,8 @@
 ## Hi 👋
 
 #### 🔭I’m currently working on Trip.com group
-#### 💬Pytest contributor, Camel contributor ⚡Working hard on more open source code now
+#### 💬Pytest contributor, Camel contributor 
+#### ⚡Working hard on more open source code now
 
 
 <!--
