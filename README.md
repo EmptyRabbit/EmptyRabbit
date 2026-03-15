@@ -1,8 +1,16 @@
 ## Hi 👋
 
-#### 🔭I’m currently working on Trip.com group
-#### 💬Pytest contributor, Camel contributor 
-#### ⚡Working hard on more open source code now
+Hi, I'm a Python developer currently working at Trip.com.
+
+I focus on building efficient tools and have contributed to open-source projects including **pytest** and **camel**.
+
+Recently, I've been exploring how to apply **AI to testing scenarios**, aiming to make test automation more intelligent, human-like, and closer to real-user behavior.
+
+I believe the future of testing is **AI-powered & humanized**.
+
+I also built an open-source AI testing tool to practice these ideas: [Xmind Testcase Generator MCP](https://pypi.org/project/testcase-generator-mcp).
+
+Always learning, building, and contributing to the open-source community.
 
 
 <!--
