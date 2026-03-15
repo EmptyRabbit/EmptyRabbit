@@ -4,9 +4,7 @@ Hi, I'm a Python developer currently working at Trip.com.
 
 I focus on building efficient tools and have contributed to open-source projects including [**pytest**](https://github.com/pytest-dev/pytest) and [**camel**](https://github.com/camel-ai/camel).
 
-Recently, I've been exploring how to apply **AI to testing scenarios**, aiming to make test automation more intelligent, human-like, and closer to real-user behavior.
-
-I believe the future of testing is **AI-powered & humanized**.
+Recently, I've been exploring how to apply **AI to testing scenarios**, aiming to make test automation more intelligent, human-like, and closer to real-user behavior. I believe the future of testing is **AI-powered & humanized**.
 
 I also built an open-source AI testing tool to practice these ideas: [**Xmind Testcase Generator MCP**](https://pypi.org/project/testcase-generator-mcp).
 
